@@ -1,1 +1,1 @@
-# phase2_group8_project
+# Project to Determine Important Factors to Consider when Venturing into Movie Production Business
