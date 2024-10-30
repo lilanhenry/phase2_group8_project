@@ -12,11 +12,10 @@ Analyze and identify top-performing genres, directors, optimal runtimes, release
 ## Data Understanding And Data Analysis
 The files, sourced from various locations, come in multiple formats: some are compressed CSV or TSV files, accessible with spreadsheet tools or pd.read_csv, while IMDB data is stored in a SQLite database. Links to access the data are provided below.
 #### Data Source
-https://www.boxofficemojo.com/
-https://www.imdb.com/
-https://www.rottentomatoes.com/
-https://www.themoviedb.org/
-https://www.the-numbers.com/
+* https://www.imdb.com/
+* https://www.rottentomatoes.com/
+* https://www.themoviedb.org/
+* https://www.the-numbers.com/
 ### The Libraries 
 * Pandas - Enables us to manipulate imported datasets saved as dataframes.
 * Numpy - Enables us to compute mathematical functions as well as perform array operations.
