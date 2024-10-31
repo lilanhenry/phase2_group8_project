@@ -39,7 +39,5 @@ The files, sourced from various locations, come in multiple formats: some are co
 ## Conclusion / Recommendation
 * January shows the lowest movie ratings across all genres. To optimize audience reception, we recommend avoiding major releases during this month.
 * Focus investment on high-ROI genres—Horror, Mystery, Documentary, Drama, and Animation—while expanding into Comedy, Crime, Biography, Thriller, Adventure, and Action to maximize returns.
-* To attract a wider audience, the company should focus on high-rated genres: Adventure, Action, Drama, and Comedy. Additionally, runtime has no effect on ratings and should not be a production priority.
-* Certain genres tend to align closely with specific MPAA ratings. For instance from the above analysis Action and Adventure films are often rated PG-13 or R, suggesting they cater to both younger viewers and adults. Films rated G or PG typically generate higher revenues due to their family-friendly appeal, particularly in genres such as Animation and Family. Similarly, genres like Action and Adventure and Drama tend to exhibit higher box office revenues.
- 
+* To attract a wider audience, the company should focus on high-rated genres: Adventure, Action, Drama, and Comedy. Additionally, runtime has no effect on ratings and should not be a production priority. 
 * Focus investment on high-ROI genres—Horror, Mystery, Documentary, Drama, and Animation—while expanding into Comedy, Crime, Biography, Thriller, Adventure, and Action to maximize returns.
